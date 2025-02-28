@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 
-This lab demonstrates how to create a Group Policy Object (GPO) from the Group Policy Management Console (GPMC); this GPO will implement a common password policy to enable the use of complex and lengthy passwords in the Active Directory.
+This lab demonstrates how to create a Group Policy Object (GPO) from the Group Policy Management Console (GPMC). This new GPO will implement a common password policy to enable the use of complex and lengthy passwords in the Active Directory.
 <h2>Lab walk-through:</h2>
 
 <p align="center">
